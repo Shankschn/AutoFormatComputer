@@ -1,0 +1,1 @@
+del /Q "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\find_exec_auto_task.bat"
