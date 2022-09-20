@@ -1,0 +1,12 @@
+## 说明
+此处为存放驱动的文件夹，安装下方教程提取计算机型号（用于命名文件夹）及驱动，并存放于此。
+
+## 提取计算机驱动
+~~~
+pnputil /export-driver * d:\backup
+~~~
+
+## 提取计算机型号（Version）：
+~~~
+wmic csproduct get 
+~~~
